@@ -1,5 +1,5 @@
 # seenembefore
-
+-
 Ever watched a show and thought "oh I've seen this guy before, but where?" That's what [seenembefore](https://sarahdayan.github.io/seenembefore/) is here to help you with. Type the name of the character and the show and'll get all their other credits. No fuss, no spoilers, just a bunch of names to a face.
 
 ## Configuration instructions
